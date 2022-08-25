@@ -356,7 +356,7 @@ MODAL
   flex-direction: column;
   justify-content: center;
   position: relative;
-  transition: all 300ms ease-in;
+  transition: all 350ms ease-in;
 }
 
 .modal--open .modal__about,
