@@ -63,7 +63,5 @@ function moveBackground(event) {
     shapes[i].style.transform = `translate(${x * boolInt}px, ${
       y * boolInt
     }px )`;
-  } 
+  }
 }
-
-
