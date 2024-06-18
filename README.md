@@ -2,6 +2,9 @@
 
 Welcome to the GitHub repository of my personal portfolio website! This site showcases my skills, projects, and a bit about who I am. Built with HTML, CSS, and JavaScript, it reflects my knowledge and experience in web development.
 
+## Hosting
+This static web application is hosted on an AWS S3 bucket
+
 ## Features
 
 - **Responsive Design**: Ensures a seamless experience across various devices and screen sizes.
